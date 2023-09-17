@@ -6,19 +6,19 @@
 
 ## 🔴 What are the different Churn Scenarios ?
 
-![Churn Scenarios](images\Telco2.JPG)
+![Churn Scenarios](images/Telco2.JPG)
 
 ## 🔴 Decision Cycle of a Subscriber ?
 
-![Decision Cycle](images\Telco3.JPG)
+![Decision Cycle](images/Telco3.JPG)
 
 ## 🔴 What are the different Churn Segments ?
 
-![Churn Segments](images\Telco4.JPG)
+![Churn Segments](images/Telco4.JPG)
 
 ## 🔴 Solution Overview
 
-![Solution](images\Telco5.JPG)
+![Solution](images/Telco5.JPG)
 
 
 In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
@@ -70,4 +70,4 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-![Customer Retention](images\Telco6.JPG)
+![Customer Retention](images/Telco6.JPG)

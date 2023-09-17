@@ -2,7 +2,7 @@
 
 ## 🔴 What is Customer Churning ?
 
-![Customer Retention](images\Telco1.JPG)
+![Customer Retention](images/Telco1.JPG)
 
 ## 🔴 What are the different Churn Scenarios ?
 
